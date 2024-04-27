@@ -21,8 +21,8 @@ Google Colab with NVCC Compiler
 13.	Free Device Memory: Finally, free the device memory that was allocated for the matrices.
 ## PROGRAM:
 ~~~
-Developed by:Lakshman
-Reg no:212222240001
+Developed by:jagadeeshreddy561
+Reg no:212222240059
 ~~~
 
 ~~~python
